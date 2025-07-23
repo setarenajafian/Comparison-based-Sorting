@@ -1,0 +1,107 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "App1/1.0.0": {
+        "dependencies": {
+          "Bubble": "1.0.0",
+          "Insertion": "1.0.0",
+          "Merge": "1.0.0",
+          "Selection": "1.0.0",
+          "Sortable": "1.0.0"
+        },
+        "runtime": {
+          "App1.dll": {}
+        }
+      },
+      "Bubble/1.0.0": {
+        "dependencies": {
+          "Sortable": "1.0.0"
+        },
+        "runtime": {
+          "Bubble.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Insertion/1.0.0": {
+        "dependencies": {
+          "Sortable": "1.0.0"
+        },
+        "runtime": {
+          "Insertion.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Merge/1.0.0": {
+        "dependencies": {
+          "Sortable": "1.0.0"
+        },
+        "runtime": {
+          "Merge.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Selection/1.0.0": {
+        "dependencies": {
+          "Sortable": "1.0.0"
+        },
+        "runtime": {
+          "Selection.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Sortable/1.0.0": {
+        "runtime": {
+          "Sortable.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bubble/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Insertion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Merge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Selection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sortable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

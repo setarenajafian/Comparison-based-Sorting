@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Star\\Downloads\\Sortable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95D8EE0E-1331-48C7-A30C-3C2DBCD1ABD1}|Insertion\\Insertion.csproj|c:\\users\\star\\downloads\\sortable\\insertion\\insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D8EE0E-1331-48C7-A30C-3C2DBCD1ABD1}|Insertion\\Insertion.csproj|solutionrelative:insertion\\insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF476281-F403-4A5E-BA4E-DD5093E4A63C}|Bubble\\Bubble.csproj|c:\\users\\star\\downloads\\sortable\\bubble\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF476281-F403-4A5E-BA4E-DD5093E4A63C}|Bubble\\Bubble.csproj|solutionrelative:bubble\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155A3C98-B55D-40DD-9A8A-6FC9BE3C81E0}|App1\\App1.csproj|c:\\users\\star\\downloads\\sortable\\app1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155A3C98-B55D-40DD-9A8A-6FC9BE3C81E0}|App1\\App1.csproj|solutionrelative:app1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1970D4CD-DB21-4DA3-A0E0-DA02F7989F9B}|Merge\\Merge.csproj|c:\\users\\star\\downloads\\sortable\\merge\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1970D4CD-DB21-4DA3-A0E0-DA02F7989F9B}|Merge\\Merge.csproj|solutionrelative:merge\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02786A00-BE4C-44F6-AF8D-81148E05DF27}|Sortable\\Sortable.csproj|c:\\users\\star\\downloads\\sortable\\sortable\\isortable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02786A00-BE4C-44F6-AF8D-81148E05DF27}|Sortable\\Sortable.csproj|solutionrelative:sortable\\isortable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{313DDCD3-63FD-471E-81D6-BD522EFF8A1E}|Selection\\Selection.csproj|c:\\users\\star\\downloads\\sortable\\selection\\selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{313DDCD3-63FD-471E-81D6-BD522EFF8A1E}|Selection\\Selection.csproj|solutionrelative:selection\\selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SelectionSort.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\Downloads\\Sortable\\Selection\\SelectionSort.cs",
+              "RelativeDocumentMoniker": "Selection\\SelectionSort.cs",
+              "ToolTip": "C:\\Users\\Star\\Downloads\\Sortable\\Selection\\SelectionSort.cs",
+              "RelativeToolTip": "Selection\\SelectionSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:57:36.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsertionSort.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\Downloads\\Sortable\\Insertion\\InsertionSort.cs",
+              "RelativeDocumentMoniker": "Insertion\\InsertionSort.cs",
+              "ToolTip": "C:\\Users\\Star\\Downloads\\Sortable\\Insertion\\InsertionSort.cs",
+              "RelativeToolTip": "Insertion\\InsertionSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:56:59.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BubbleSort.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\Downloads\\Sortable\\Bubble\\BubbleSort.cs",
+              "RelativeDocumentMoniker": "Bubble\\BubbleSort.cs",
+              "ToolTip": "C:\\Users\\Star\\Downloads\\Sortable\\Bubble\\BubbleSort.cs",
+              "RelativeToolTip": "Bubble\\BubbleSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:56:27.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\Downloads\\Sortable\\App1\\Program.cs",
+              "RelativeDocumentMoniker": "App1\\Program.cs",
+              "ToolTip": "C:\\Users\\Star\\Downloads\\Sortable\\App1\\Program.cs",
+              "RelativeToolTip": "App1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:53:10.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MergeSort.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\Downloads\\Sortable\\Merge\\MergeSort.cs",
+              "RelativeDocumentMoniker": "Merge\\MergeSort.cs",
+              "ToolTip": "C:\\Users\\Star\\Downloads\\Sortable\\Merge\\MergeSort.cs",
+              "RelativeToolTip": "Merge\\MergeSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:40:26.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISortable.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\Downloads\\Sortable\\Sortable\\ISortable.cs",
+              "RelativeDocumentMoniker": "Sortable\\ISortable.cs",
+              "ToolTip": "C:\\Users\\Star\\Downloads\\Sortable\\Sortable\\ISortable.cs",
+              "RelativeToolTip": "Sortable\\ISortable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:29:47.343Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Bubble/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Sortable": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Bubble.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bubble.dll": {}
+        }
+      },
+      "Insertion/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Sortable": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Insertion.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Insertion.dll": {}
+        }
+      },
+      "Merge/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Sortable": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Merge.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Merge.dll": {}
+        }
+      },
+      "Selection/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Sortable": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Selection.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Selection.dll": {}
+        }
+      },
+      "Sortable/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Sortable.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sortable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bubble/1.0.0": {
+      "type": "project",
+      "path": "../Bubble/Bubble.csproj",
+      "msbuildProject": "../Bubble/Bubble.csproj"
+    },
+    "Insertion/1.0.0": {
+      "type": "project",
+      "path": "../Insertion/Insertion.csproj",
+      "msbuildProject": "../Insertion/Insertion.csproj"
+    },
+    "Merge/1.0.0": {
+      "type": "project",
+      "path": "../Merge/Merge.csproj",
+      "msbuildProject": "../Merge/Merge.csproj"
+    },
+    "Selection/1.0.0": {
+      "type": "project",
+      "path": "../Selection/Selection.csproj",
+      "msbuildProject": "../Selection/Selection.csproj"
+    },
+    "Sortable/1.0.0": {
+      "type": "project",
+      "path": "../Sortable/Sortable.csproj",
+      "msbuildProject": "../Sortable/Sortable.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Bubble >= 1.0.0",
+      "Insertion >= 1.0.0",
+      "Merge >= 1.0.0",
+      "Selection >= 1.0.0",
+      "Sortable >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Star\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Star\\Downloads\\Sortable\\App1\\App1.csproj",
+      "projectName": "App1",
+      "projectPath": "C:\\Users\\Star\\Downloads\\Sortable\\App1\\App1.csproj",
+      "packagesPath": "C:\\Users\\Star\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Star\\Downloads\\Sortable\\App1\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Star\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Star\\Downloads\\Sortable\\Bubble\\Bubble.csproj": {
+              "projectPath": "C:\\Users\\Star\\Downloads\\Sortable\\Bubble\\Bubble.csproj"
+            },
+            "C:\\Users\\Star\\Downloads\\Sortable\\Insertion\\Insertion.csproj": {
+              "projectPath": "C:\\Users\\Star\\Downloads\\Sortable\\Insertion\\Insertion.csproj"
+            },
+            "C:\\Users\\Star\\Downloads\\Sortable\\Merge\\Merge.csproj": {
+              "projectPath": "C:\\Users\\Star\\Downloads\\Sortable\\Merge\\Merge.csproj"
+            },
+            "C:\\Users\\Star\\Downloads\\Sortable\\Selection\\Selection.csproj": {
+              "projectPath": "C:\\Users\\Star\\Downloads\\Sortable\\Selection\\Selection.csproj"
+            },
+            "C:\\Users\\Star\\Downloads\\Sortable\\Sortable\\Sortable.csproj": {
+              "projectPath": "C:\\Users\\Star\\Downloads\\Sortable\\Sortable\\Sortable.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
