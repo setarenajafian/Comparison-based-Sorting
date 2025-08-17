@@ -12,14 +12,13 @@ class Program
         Console.WriteLine("Enter your numbers ( separated by commas like 2,85,100,4) :");
         string input = Console.ReadLine();
 
-        // Convert into an array of integers
         string[] inputNumbers = input.Split(',');
         int[] values = Array.ConvertAll(inputNumbers, int.Parse);
 
         // Select the sorting implementation
         ISortable<int> sorter;
 
-        // Uncomment the implementation you want to use
+        
         //sorter = new MergeSort<int>();
         sorter = new BubbleSort<int>();
         // sorter = new SelectionSort<int>();
